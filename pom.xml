@@ -3,6 +3,7 @@
   <properties>
   <maven.compiler.source>1.6</maven.compiler.source>
   <maven.compiler.target>1.6</maven.compiler.target>
+  </properties>
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ebay</groupId>
   <artifactId>ebay</artifactId>
